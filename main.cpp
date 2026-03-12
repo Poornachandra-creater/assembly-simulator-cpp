@@ -6,7 +6,7 @@
 #include "include/lexer.h"
 #include "include/parser.h"
 #include "include/codegen.h"
-#include "include/ast_printer.h"
+#include "include/ast_printer.h" 
 
 // ── pretty divider ────────────────────────────────────────────────────────────
 void divider(const std::string& title) {
